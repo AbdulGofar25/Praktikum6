@@ -1,4 +1,4 @@
-# Praktikum6
+
 #
     NAMA  : ABDUL GOFAR
     NIM   : 312210504
