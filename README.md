@@ -15,6 +15,21 @@
     6. Commit dan push repository ke github.
 
 
+## ***PENJELASAN :***
+    1. Fungsi tambah() untuk menambah data
+    2. Fungsi tapilkan() untuk menampilkan data
+    3. Fungsi hapus(nama) untuk menghapus data berdasarkan nama
+    4. Fungsi ubah(nama) untuk mengubah data berdasarkan nama
+
+## ***OUTPUT PROGRAM :***
+![Gambar 1](gambar/ss1.png)
+![Gambar 2](gambar/ss2.png)
+![Gambar 3](gambar/ss3.png)
+![Gambar 4](gambar/ss4.png)
+
+## ***FLOWCHART :***
+![Gambar 6](flowchart/flowchart.png)
+
 ## ***PROGRAM :***
 ```sh
 dataMahasiswa = {}
@@ -94,21 +109,6 @@ while True:
         exit()
     else:
         print("YANG ANDA CARI TIDAK ADA!")
-
-## ***PENJELASAN :***
-    1. Fungsi tambah() untuk menambah data
-    2. Fungsi tapilkan() untuk menampilkan data
-    3. Fungsi hapus(nama) untuk menghapus data berdasarkan nama
-    4. Fungsi ubah(nama) untuk mengubah data berdasarkan nama
-
-## ***OUTPUT PROGRAM :***
-![Gambar 1](gambar/ss1.png)
-![Gambar 2](gambar/ss2.png)
-![Gambar 3](gambar/ss3.png)
-![Gambar 4](gambar/ss4.png)
-
-## ***FLOWCHART :***
-![Gambar 6](flowchart/flowchart.png)
 
 
 ### Terima Kasih :)
